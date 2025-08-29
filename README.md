@@ -7,7 +7,7 @@
 
 ## ********************
 
-add uma pasta /images para entrga do desafio
+- add uma pasta /images para entrga do desafio
 - Criação de uma maquina virtual 
 
 ## ********************
