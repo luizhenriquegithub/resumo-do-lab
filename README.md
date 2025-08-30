@@ -5,12 +5,12 @@
 - Serviços gratuitos
 - Bastions     
 
-## ********************
+## =======================================
 
 - add uma pasta /images para entrga do desafio
 - Criação de uma maquina virtual 
 
-## ********************
+## =======================================
  - imagem e arquitetura de uma maquina virtual 
  - criação de Banco de dados sql server 
 
